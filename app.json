@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "SevenHelp",
+    "slug": "SevenHelp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
