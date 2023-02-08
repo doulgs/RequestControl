@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "381545845924",
+    "project_id": "spacehelp-55910",
+    "storage_bucket": "spacehelp-55910.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381545845924:android:e4b983bc16254453770231",
+        "android_client_info": {
+          "package_name": "com.doulgs.SevenHelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381545845924-3adrlr0dpkk8tr94tbt5n1n77q63h79p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEsKjiN5rg_X_SZYCqgLsVyFeuUqc80j4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381545845924-3adrlr0dpkk8tr94tbt5n1n77q63h79p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

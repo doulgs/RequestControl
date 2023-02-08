@@ -1,4 +1,4 @@
-package com.sevenhelp.newarchitecture.components;
+package com.doulgs.SevenHelp.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;

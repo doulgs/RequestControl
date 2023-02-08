@@ -1,4 +1,4 @@
-package com.sevenhelp;
+package com.doulgs.SevenHelp;
 
 import android.os.Build;
 import android.os.Bundle;
